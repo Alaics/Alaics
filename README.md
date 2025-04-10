@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 👩‍🎓 4th Year Computer Engineering Student<br/>
 💻 Currently Learning Web Development <br/>

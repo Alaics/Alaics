@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-👩‍🎓 4th Year Computer Engineering Student<br/>
+👩‍🎓 Computer Engineer<br/>
 💻 Currently Learning Web Development <br/>
 
 # 💻 Tech Stack:
